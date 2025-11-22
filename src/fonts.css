@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;600;800&family=Baloo+Thambi+2:wght@400;600;800&display=swap');
+
+.font-tamil {
+  font-family: 'Baloo Thambi 2', 'Catamaran', sans-serif;
+}
+.font-latha{
+    font-family: "Latha";
+}
+.font-noto-sans{
+    font-family: "Noto Sans Tamil";
+}
+.font-noto-serif{
+    font-family: "Noto Serif Tamil";
+}
+.font-catamaran{
+    font-family: "Catamaran";
+}

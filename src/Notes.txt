@@ -1,0 +1,2 @@
+It should align left (form) and right (live preview)
+Setup a attractive font for tamil news
